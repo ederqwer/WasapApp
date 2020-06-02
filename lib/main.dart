@@ -357,7 +357,6 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         body: ListView(
           padding: EdgeInsets.only(
-            top: 10,
             bottom: 100,
           ),
           children: _getChats(),

@@ -12,4 +12,8 @@ Proyecto creado para alumnos de la carrera Ing. en sistemas.
 - Interacción de avatar
 - Primeros pasos en php mysql
 
-![alt text](https://i.imgur.com/Cf4yrGM.png)
+---
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+---
